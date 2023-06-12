@@ -4,7 +4,7 @@
 ### <div align="center">Wiggle here...</div>  
   
 
-- 🤖 Founder and developing at Wave Studios
+Developing at Wave Studios
   
 
 <br/>  
