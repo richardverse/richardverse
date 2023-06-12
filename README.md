@@ -4,13 +4,12 @@
 ### <div align="center">Wiggle here...</div>  
   
 
-Developing at Wave Studios
-  
+: Developing at Wave Studios
 
 <br/>  
 
 
-## My Skill Set and Tools
+## Knowledge
 <div align="center">
 <img height="64" width="64" src="https://cdn.simpleicons.org/visualstudiocode"/>&nbsp&nbsp&nbsp&nbsp
 <img height="64" width="64" src="https://cdn.simpleicons.org/git"/>
