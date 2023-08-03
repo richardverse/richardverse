@@ -23,6 +23,7 @@
 <img height="64" width="64" src="https://cdn.simpleicons.org/html5"/>
 <br/>
 <img height="64" width="64" src="https://cdn.simpleicons.org/lua"/>&nbsp&nbsp&nbsp&nbsp
+<img height="64" width="64" src="https://cdn.simpleicons.org/fivem"/>&nbsp&nbsp&nbsp&nbsp
 </div>  
 
 <br/>  
