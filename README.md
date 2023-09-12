@@ -1,13 +1,4 @@
 # **Hi there 👋,**  
-  
-
-### <div align="center">Wiggle here...</div>  
-  
-
-: Developing at Wave Studios
-
-<br/>  
-
 
 ## Knowledge
 <div align="center">
