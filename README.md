@@ -6,6 +6,7 @@
 <img height="64" width="64" src="https://cdn.simpleicons.org/git"/>
 <br/><br/>
 <img height="64" width="64" src="https://cdn.simpleicons.org/mysql"/>&nbsp&nbsp&nbsp&nbsp
+<img height="64" width="64" src="https://cdn.simpleicons.org/phpmyadmin"/>&nbsp&nbsp&nbsp&nbsp
 <img height="64" width="64" src="https://cdn.simpleicons.org/xampp"/>
 <br/><br/>
 <img height="64" width="64" src="https://cdn.simpleicons.org/javascript"/>&nbsp&nbsp&nbsp&nbsp
