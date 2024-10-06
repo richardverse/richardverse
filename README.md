@@ -4,20 +4,31 @@
 
 ### 🖥️ **Web Development**
 - **Frontend**:  
-  ![HTML5](https://cdn.simpleicons.org/html5) ![CSS3](https://cdn.simpleicons.org/css3) ![JavaScript](https://cdn.simpleicons.org/javascript) ![jQuery](https://cdn.simpleicons.org/jquery)
+  <img height="64" width="64" src="https://cdn.simpleicons.org/html5"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/css3"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/javascript"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/jquery"/>
   
 - **Backend & Tools**:  
-  ![XAMPP](https://cdn.simpleicons.org/xampp) ![PHPMyAdmin](https://cdn.simpleicons.org/phpmyadmin) ![Insomnia](https://cdn.simpleicons.org/insomnia) ![Flask](https://cdn.simpleicons.org/flask)
+  <img height="64" width="64" src="https://cdn.simpleicons.org/xampp"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/phpmyadmin"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/insomnia"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/flask"/>
 
 ### 🗄️ **Databases**
 - **SQL & Database Management**:  
-  ![MySQL](https://cdn.simpleicons.org/mysql) ![PHPMyAdmin](https://cdn.simpleicons.org/phpmyadmin)
+  <img height="64" width="64" src="https://cdn.simpleicons.org/mysql"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/phpmyadmin"/>
 
 ### 🧑‍💻 **Programming Languages**
-- ![C](https://cdn.simpleicons.org/c) ![Lua](https://cdn.simpleicons.org/lua) ![Python](https://cdn.simpleicons.org/python) ![JavaScript](https://cdn.simpleicons.org/javascript)
+- <img height="64" width="64" src="https://cdn.simpleicons.org/c"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/lua"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/python"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/javascript"/>
 
 ### 🛠️ **Version Control & Tools**
-- ![Git](https://cdn.simpleicons.org/git) ![GitHub](https://cdn.simpleicons.org/github)
+- <img height="64" width="64" src="https://cdn.simpleicons.org/git"/>&nbsp&nbsp  
+  <img height="64" width="64" src="https://cdn.simpleicons.org/github"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wigglept&&style=flat-square" />
