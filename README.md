@@ -1,6 +1,6 @@
 # richard
 
-##### Hi, I'm Richard, developer with a strong interest in backend logic, data handling, and scripting.
+##### Developer with a strong interest in backend logic, data handling and scripting.
 
 ### programming Languages
 <img height="32" width="32" src="https://cdn.simpleicons.org/c/white" />&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/lua/white" />&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" />&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/php/white" />&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
