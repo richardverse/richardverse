@@ -17,6 +17,6 @@
 ### software
 <img height="32" width="32" src="https://cdn.simpleicons.org/figma/white" />
 
-### learing
+### learning
 <img height="32" width="32" src="https://cdn.simpleicons.org/springboot/white" />
 
