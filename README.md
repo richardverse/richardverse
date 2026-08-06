@@ -6,7 +6,7 @@
 
 **Computer Engineering · Web Dev · Freelancer**
 
-19 · Portugal · Building things that (mostly) work
+20 · Portugal · Building things that (mostly) work
 
 Currently working at **[Rich Solutions](https://richsolutions.pt)**.
 
