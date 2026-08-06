@@ -8,7 +8,7 @@
 
 19 · Portugal · Building things that (mostly) work
 
-Currently working on **[Rich Solutions](https://richsolutions.pt)**.
+Currently working at **[Rich Solutions](https://richsolutions.pt)**.
 
 ---
 
@@ -92,14 +92,6 @@ Currently working on **[Rich Solutions](https://richsolutions.pt)**.
 </td>
 </tr>
 </table>
-
----
-
-### Currently Building
-
-| Project | What | Stack |
-|:-------:|:----:|:-----:|
-| **Rich Solutions** | Websites, ecommerce & web apps for businesses | React · Tailwind · Three.js · Node.js |
 
 ---
 
