@@ -58,7 +58,6 @@ Currently working at **[Rich Solutions](https://richsolutions.pt)**.
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=flat-square&logoColor=white)
 
 </td>
 <td align="center" valign="top">
@@ -86,8 +85,7 @@ Currently working at **[Rich Solutions](https://richsolutions.pt)**.
 
 **AI Tools**
 
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 </td>
 </tr>
